@@ -9,4 +9,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+![Captura](https://github.com/Katherine-LM/Crypto-React/assets/84242735/ba4ac74f-fd3b-4674-9470-c112fd771888)
 
